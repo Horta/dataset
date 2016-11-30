@@ -1,0 +1,6 @@
+*.msg
+.Rproj.user
+.Rhistory
+.RData
+annotations/*
+*.h5
