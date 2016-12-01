@@ -4,3 +4,5 @@
 .RData
 annotations/*
 *.h5
+*.pkl
+*.blp
